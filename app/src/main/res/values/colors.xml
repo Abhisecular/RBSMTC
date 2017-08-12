@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d50e00</color>
+    <color name="colorPrimaryDark">#4c4548</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tabnotselected">#d52b00</color>
+    <color name="text_color">#c0d118</color>
+    <color name="text_color1">#d5ed451f</color>
+    <color name="text_color2">#bdbdbd</color>
+    <color name="tab_color1">#95d3660c</color>
+    <color name="new1">#f2f5f6</color>
+    <color name="tab_color">#127fff</color>
+    <color name="text_color3">#9ce47d15</color>
+    <color name="text_anim">#d3660c</color>
+    <color name="course_subhead">#BBA896</color>
+    <color name="rajahead">#50B6BF</color>
+    <color name="backgr">#EEEEEE</color>
+    <color name="new_col">#DD4c4548</color>
+
+</resources>

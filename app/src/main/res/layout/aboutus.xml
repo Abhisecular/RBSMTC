@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:id="@+id/course_layout"
+    android:weightSum="1">
+    <!--android:background="#c6c3d4c9"-->
+    <TextView
+        android:text="About Us"
+        android:layout_width="match_parent"
+        android:layout_height="20sp"
+        android:id="@+id/textView3"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/rec_about"
+        android:clipToPadding="false"
+        android:padding="@dimen/item_offset"
+        ></android.support.v7.widget.RecyclerView>
+</LinearLayout>

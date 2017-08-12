@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.abhi.rbsapp">
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/rbs_logo"
+        android:label="@string/appname"
+        android:largeHeap="true"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--
+     ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name=".MainActivity" />
+        <activity android:name=".newtest" />
+        <activity
+            android:name=".courseList2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Main2Activity"
+            android:label=""
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".history"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Society"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Institute"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Dir_message"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".facultystaff"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".mba"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".mca"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".mcadual"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".mbadual"
+            android:screenOrientation="portrait" />
+        <activity android:name=".web"></activity>
+    </application>
+
+</manifest>

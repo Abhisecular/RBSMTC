@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RBSapp</string>
+    <string name="image1">image1</string>
+    <string name="welcome">Welcome to RBSMTC</string>
+    <string name="overview">Overview</string>
+    <string name="ov_info">Raja Balwant Singh Management Technical Campus (formerly FMCA) was established in 1999 under the aegis of Balwant Educational Society for imparting quality management and computer education to all sections of the society.
+        RBSMTC is affiliated to U.P technical University, Lucknow and is approved by AICTE, New Delhi for two-year full time MBA program,
+        MBA Tourism Mgmt.,three-year full time MCA program and five year Dual Degree Courses MAM and MCA</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="faculty_staff"><![CDATA[Faculty & Staff]]></string>
+    <string name="admission_open">* Admission open for academic session 2017-18 *</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="soc2">The District and Session Judge, Agra is the ex-officio president , Raja Anirudh Pal Singh ji of Awagarh is the ex-officio Vice-President , Er. Amar Singh Rajput is the secretary and Rajkumar Ambareesh Pal singh is the joint secretary of the society. There are 21 members in all, to mention a notable few, Rani Sahiba Anjali Kumari , Maharaj Tushar Singh ( Ex – Member of Parliament ) , Dr. S. C. Mudgal (Ex- Vice Chancellor, G. B Pant University of Agriculture and Technology, Pant Nagar), Dr. Dhyan Pal Singh (Ex- Vice Chancellor, Jawaharlal Nehru Krishi VIshwavidyala, Jabalpur).</string>
+    <string name="soc1"><![CDATA[Raja Balwant Singh Management Technical Campus(formerly FMCA) as an institute of professional & technical learning, is running under the aegis of Balwant Educational Society which is registered under The Societies Registration Act, 1860 and is a not-for-profit organization.]]></string>
+    <string name="inst2">RBSMTC is located in the lush green Khandari Farm campus which is spread over an area of 27 acres. The institute is located in the heart of the city and that too in the close vicinity of the Khandari campus of Dr. B.R.Ambedkar University, Agra. Institute of Home Science, Institute of Basic Science, School of Life Sciences, Institute of Engineering and Technology of Dr. B. R. Ambedkar University, Agra are at stone’s throw distance from the institute.</string>
+    <string name="inst1">Raja Balwant Singh Management Technical Campus(formerly FMCA) was established in 1999 under the aegis of Balwant Educational Society for imparting quality management and computer education to all sections of the society. RBSMTC is affiliated to U.P technical University, Lucknow and is approved by AICTE, New Delhi for two-year full time MBA program, MBA Tourism Mgmt.,three-year full time MCA program and five year Dual Degree Courses MAM and MCA</string>
+    <string name="facstaff"><![CDATA[Faculty & Staff]]></string>
+    <string name="appname">RBSMTC</string>
+</resources>
